@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/banner-lex.png)
 
 
