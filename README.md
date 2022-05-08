@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/%C2%A1document.write('Hello%2C%20World!')%3B.jpg)
+![](https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/banner-lex.png)
 
 
 <!--
