@@ -10,15 +10,31 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBahSan&layout=compact&theme=gruvbox" />
 </a>
 
+## About me 🙋‍♂️
+
+### Hello there, my name is Alejandro Bahena:
+
+Trained as a Mechatronic Engineer with over 5 years of experience in the automation field, I'm now switching gears to venture into the world of technology hand in hand with the ITEMS bootcamp.
+
+For as long as I can remember,  technology is something that has always been a passion of mine. As a self-taught programmer, so much of my learning in this field has been through experimentation with different concepts. Challenges are my mental daily workout to help improve my expertise and helping others out at the same time.
+
+This is the way </br>
+_**-Mandalorian**_
+
+<a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
+  <img align="center" src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Mandalorian-this-is-the-way.jpg"  width="150" 
+     height="200"/>
+</a>
+
 ## 🚀 Technologies Used
 
 **Languages**
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Frameworks**
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 **IDEs/Editors**
 
