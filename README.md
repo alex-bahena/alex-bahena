@@ -1,7 +1,6 @@
 ![](https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/banner-lex.png)
 
 
-## My portfolio: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 ![Profile Views](https://komarev.com/ghpvc/?username=AlejandroBahSan&style=flat&color=ff69b4) [![Gmail Badge](https://img.shields.io/badge/gmail-contact-red?style=flat&logo=gmail&logoColor=white&color=red)](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.bahsan@gmail.com&su=SUBJECT&body=BODY) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlejandroBahSan) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alejandro-b-sandoval/) ![Shu#8523](https://dcbadge.vercel.app/api/shield/816390606980513852?style=flat?theme=default-inverted)
 
 ## 📈 Github Stats
@@ -13,12 +12,12 @@
 ## About me 🙋‍♂️
 
 ### Hello there, my name is Alejandro Bahena:
+#### And this is my portfolio: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 
 Trained as a Mechatronic Engineer with over 5 years of experience in the automation field, I'm now switching gears to venture into the world of technology hand in hand with the ITEMS bootcamp.
 
 For as long as I can remember,  technology is something that has always been a passion of mine. As a self-taught programmer, so much of my learning in this field has been through experimentation with different concepts. Challenges are my mental daily workout to help improve my expertise and helping others out at the same time.
 
-My portfolio: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 
 This is the way </br>
 _**-Mandalorian**_
