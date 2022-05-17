@@ -12,7 +12,7 @@
 ## About me 🙋‍♂️
 
 ### Hello there, my name is Alejandro Bahena:
-#### And this is my portfolio: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
+#### Here some of my recent projects: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 
 Trained as a Mechatronic Engineer with over 5 years of experience in the automation field, I'm now switching gears to venture into the world of technology hand in hand with the ITEMS bootcamp.
 
