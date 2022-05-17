@@ -12,12 +12,12 @@
 ## About me 🙋‍♂️
 
 ### Hello there, my name is Alejandro Bahena:
-#### Here some of my recent projects: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 
 Trained as a Mechatronic Engineer with over 5 years of experience in the automation field, I'm now switching gears to venture into the world of technology hand in hand with the ITEMS bootcamp.
 
 For as long as I can remember,  technology is something that has always been a passion of mine. As a self-taught programmer, so much of my learning in this field has been through experimentation with different concepts. Challenges are my mental daily workout to help improve my expertise and helping others out at the same time.
 
+- Here you can find some of my recent projects: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 
 This is the way </br>
 _**-Mandalorian**_
