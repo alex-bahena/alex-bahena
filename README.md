@@ -19,14 +19,6 @@ For as long as I can remember,  technology is something that has always been a p
 
 - Here you can find some of my recent projects: https://alejandrobahsan.github.io/Alejandro-s-Portfolio/
 
-This is the way </br>
-_**-Mandalorian**_
-
-<a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
-  <img align="center" src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Mandalorian-this-is-the-way.jpg"  width="150" 
-     height="200"/>
-</a>
-
 ## 🚀 Technologies Used
 
 **Languages**
