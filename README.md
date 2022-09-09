@@ -1,7 +1,7 @@
 
 
 <p>
-  <img src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Banner.gif" width="1000" height="400" />
+  <img src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Banner.gif" width="700" height="250" />
   
  </p>
 
