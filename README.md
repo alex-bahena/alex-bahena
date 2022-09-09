@@ -1,7 +1,3 @@
-
-![](https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/banner.gif)
-
-
 <p float="center">
   <img align="center" src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/banner.gif" width="900" height="auto" />
  </p>
