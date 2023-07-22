@@ -17,13 +17,12 @@
 ### Hi there, Alejandro here! 
 #### With over 5 years of experience as a Mechatronic Engineer under my belt, I've switched gears into more coding. As a self-taught programmer and a graduate of the ITEMS coding bootcamp, so much of my learning in this field has been through a balance of curiosity and experimentation with different concepts. I like a good challenge but more than that, I love to help teams build great products. I also love helping build things right the first time. I invite you to be nosey here and explore my past projects below.
 
-## 🚀 Technologies I Used
+## 🚀 Technologies I use
 
-**Languages**
-
+**Programming languages**
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Databases and ORMs**
+**Database and ORMs**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) [![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)](https://www.mongodb.com/) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=red)
 
@@ -42,8 +41,8 @@
 
 
 **Operating Systems**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac](https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
