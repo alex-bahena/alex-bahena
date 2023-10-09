@@ -19,7 +19,7 @@
 ### Hi there, Alejandro here! 
 #### With over 5 years of experience as a Mechatronic Engineer under my belt, I've switched gears into more coding. As a self-taught programmer and a graduate of the ITEMS coding bootcamp, so much of my learning in this field has been through a balance of curiosity and experimentation with different concepts. I like a good challenge but more than that, I love to help teams build great products. I also love helping build things right the first time. I invite you to be nosey here and explore my past projects below.
 
-## 🚀 Technologies I use
+## 🚀 Technologies I use and badges
 
 **Programming languages**
 
@@ -40,6 +40,10 @@
 **IDEs/Editors**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+**Open source contribution badges**
+
+[![An image of @alejandrobahsan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alejandrobahsan)](https://holopin.io/@alejandrobahsan)
 
 
 
