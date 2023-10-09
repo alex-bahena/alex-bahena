@@ -43,7 +43,7 @@
 
 **Open source contribution badges**
 
-[[!](https://holopin.me/alejandrobahsan)](https://holopin.io/@alejandrobahsan)
+![[An image of @alejandrobahsan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alejandrobahsan)](https://holopin.io/@alejandrobahsan)
 
 
 
