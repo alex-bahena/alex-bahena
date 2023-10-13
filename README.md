@@ -5,8 +5,10 @@
   <img align="center" src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Banner.gif" width="1000" height="auto" />
 
  </p>
+
  
 ![Profile Views](https://komarev.com/ghpvc/?username=AlejandroBahSan&style=flat&color=ff69b4) [![Gmail Badge](https://img.shields.io/badge/gmail-contact-red?style=flat&logo=gmail&logoColor=white&color=red)](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.bahsan@gmail.com&su=SUBJECT&body=BODY) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlejandroBahSan) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alejandro-b-sandoval/) ![Shu#8523](https://dcbadge.vercel.app/api/shield/816390606980513852?style=flat?theme=default-inverted)
+
 
 ## 📈 Github Stats
 
@@ -14,10 +16,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBahSan&layout=compact&theme=gruvbox" />
 </a>
 
+
 ## About me 🙋‍♂️
 
 ### Hi there, Alejandro here! 
 #### With over 5 years of experience as a Mechatronic Engineer under my belt, I've switched gears into more coding. As a self-taught programmer and a graduate of the ITEMS coding bootcamp, so much of my learning in this field has been through a balance of curiosity and experimentation with different concepts. I like a good challenge but more than that, I love to help teams build great products. I also love helping build things right the first time. I invite you to be nosey here and explore my past projects below.
+
 
 ## 🚀 Technologies I use and badges
 
@@ -41,16 +45,18 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-**Open source contribution badges**
-
-[![An image of @alejandrobahsan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alejandrobahsan)](https://holopin.io/@alejandrobahsan)
-
-
 
 **OS**
 
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+**Open source contribution badges**
+
+[![An image of @alejandrobahsan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alejandrobahsan)](https://holopin.io/@alejandrobahsan)
+
+
 
 
 
