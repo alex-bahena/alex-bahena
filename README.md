@@ -1,19 +1,16 @@
-
-
-
  <p float="center">
-  <img align="center" src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Banner.gif" width="1000" height="auto" />
+  <img align="center" src="https://github.com/AlejandroBahSan/AlejandroBahSan/blob/main/Banner.gif" width="1000" height="auto"/>
 
  </p>
 
  
-![Profile Views](https://komarev.com/ghpvc/?username=AlejandroBahSan&style=flat&color=ff69b4) [![Gmail Badge](https://img.shields.io/badge/gmail-contact-red?style=flat&logo=gmail&logoColor=white&color=red)](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.bahsan@gmail.com&su=SUBJECT&body=BODY) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlejandroBahSan) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alejandro-b-sandoval/) ![Shu#8523](https://dcbadge.vercel.app/api/shield/816390606980513852?style=flat?theme=default-inverted)
+![Profile Views](https://komarev.com/ghpvc/?username=AlejandroBahSan&style=flat&color=ff69b4) [![Gmail Badge](https://img.shields.io/badge/gmail-contact-red?style=flat&logo=gmail&logoColor=white&color=red)](https://mail.google.com/mail/?view=cm&fs=1&to=alejandro.bahsan.ca@gmail.com&su=SUBJECT&body=BODY) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlejandroBahSan) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alejandro-b-sandoval/) ![Shu#8523](https://dcbadge.vercel.app/api/shield/816390606980513852?style=flat?theme=default-inverted)
 
 
 ## 📈 Github Stats
 
 <a href="https://github.com/AlejandroBahSan/AlejandroBahSan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBahSan&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBahSan&layout=compact&theme=gruvbox"/>
 </a>
 
 
