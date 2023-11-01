@@ -1,5 +1,5 @@
  <p float="center">
-  <img align="center" src="https://github.com/alex-bahena/alex-bahena/blob/main/Banner.gif" width="1000" height="auto"/>
+  <img align="center" src="https://github.com/alex-bahena/alex-bahena/blob/main/Alex%20Bahena.gif" width="1000" height="auto"/>
 
  </p>
 
