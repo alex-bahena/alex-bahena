@@ -1,3 +1,5 @@
+<div>
+ 
  <p float="center">
   <img align="center" src="https://github.com/alex-bahena/alex-bahena/blob/main/Alex%20Bahena.gif" width="1000" height="auto"/>
 
@@ -25,7 +27,7 @@
 
 **Programming languages**
 
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)] ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)! [HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 **Database and ORMs**
 
@@ -53,6 +55,7 @@
 **Open source contribution badges**
 
 [![An image of @alejandrobahsan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alejandrobahsan)](https://holopin.io/@alejandrobahsan)
+</div>
 
 
 
