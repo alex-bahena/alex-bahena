@@ -6,7 +6,7 @@
  </p>
 
  
-[![Gmail Badge](https://img.shields.io/badge/gmail-contact-red?style=flat&logo=gmail&logoColor=white&color=red)](https://mail.google.com/mail/?view=cm&fs=1&to=alex.bahena.ca@gmail.com&su=SUBJECT&body=BODY) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlejandroBahSan) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alejandro-b-sandoval/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-contact-red?style=flat&logo=gmail&logoColor=white&color=red)](https://mail.google.com/mail/?view=cm&fs=1&to=alex.bahena.ca@gmail.com&su=SUBJECT&body=BODY) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AlejandroBahSan) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alex-bahena/)
 
 ## 📈 Github Stats
 
